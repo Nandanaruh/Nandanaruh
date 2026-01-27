@@ -1,5 +1,5 @@
 # Hi, I'm Nandana Rathnayaka
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Developer;Mobile+App+Developer;React+&+Next.js+Developer;Always+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Developer;Mobile+App+Developer;React+NEXT+JS+Developer;Always+Learning)
 
 🚀 **Flutter Developer | React & Next.js Developer**  
 🏢 Founder @ **Silicon Omega**  
