@@ -9,7 +9,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ## ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact&theme=tokyonight)
 
 
