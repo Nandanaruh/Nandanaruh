@@ -25,3 +25,6 @@
 ## 📫 Contact
 - Email: yourmail@gmail.com
 - GitHub: https://github.com/Nandanaruh
+- ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
+
