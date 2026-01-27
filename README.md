@@ -1,31 +1,93 @@
-# 👋 Hi, I'm Nandana - 
+# 👋 Hi, I'm Nandana Rathnayaka
+
+🚀 **Flutter Developer | React & Next.js Developer**  
+🏢 Founder @ **Silicon Omega**  
+🎯 Building educational platforms & RC toy applications  
+🇱🇰 Sri Lanka
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Developer;Mobile+App+Builder;Always+Learning)
 
-🚀 Flutter Developer | 💻 Web Developer  
-🎯 Building educational & RC toy apps 🇱🇰 Sri Lanka
+---
+
+## 🧠 What I Do
+- 📱 Build **high-performance Flutter apps**
+- 🌐 Develop **React & Next.js web applications**
+- 🎓 Create **educational apps** (Sinhala & English)
+- 🧩 Design **reusable UI components**
+- 🔗 Integrate APIs & Firebase services
 
 ---
 
 ## 🛠 Tech Stack
-- Flutter & Dart
+
+### 📱 Mobile
+- Flutter
+- Dart
 - Firebase
-- REST APIs
+
+### 🌐 Web
+- React.js
+- Next.js
+- TypeScript
 - HTML, CSS, JavaScript
+
+### ⚙️ Tools
 - Git & GitHub
+- REST APIs
+- MongoDB
+- Figma (UI reference)
 
 ---
 
-## 📱 Projects
-- RC Toys Shopping App
-- Student Learning Apps (Sinhala & English)
-- Flutter UI Components
+## 🚀 Featured Projects
+
+### 🧸 RC Toys Shopping App (Flutter)
+🛒 E-commerce app for RC vehicles  
+- Custom AppBar & reusable widgets  
+- Cart system with state management  
+- Clean UI for kids & parents  
+
+🔧 **Tech:** Flutter, Dart, Firebase
 
 ---
 
-## 📫 Contact
-- Email: yourmail@gmail.com
-- GitHub: https://github.com/Nandanaruh
+### 🎓 Student Learning Apps
+📚 Educational apps for Sri Lankan & British syllabi  
+- Sinhala & English support  
+- Step-by-step lessons  
+- Interactive UI  
 
+🔧 **Tech:** Flutter, Firebase
 
+---
+
+### 🌐 Silicon Omega Web Projects
+💻 Company & portfolio websites  
+- SEO-friendly Next.js apps  
+- Animated UI & modern layouts  
+- API-based data handling  
+
+🔧 **Tech:** React, Next.js, TypeScript
+
+---
+
+## 🧩 UI Components
+- Reusable Flutter widgets
+- Animated page transitions
+- Custom buttons, cards & navigation
+
+---
+
+## 📫 Contact & Links
+- 📧 Email: yourmail@gmail.com  
+- 🏢 Brand: **Silicon Omega**  
+- 🐙 GitHub: https://github.com/Nandanaruh
+
+---
+
+⭐ *Always learning. Always building.*
