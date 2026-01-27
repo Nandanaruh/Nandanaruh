@@ -84,7 +84,7 @@
 ---
 
 ## 📫 Contact & Links
-- 📧 Email: yourmail@gmail.com  
+- 📧 Email: nandanaruh@gmail.com  
 - 🏢 Brand: **Silicon Omega**  
 - 🐙 GitHub: https://github.com/Nandanaruh
 
