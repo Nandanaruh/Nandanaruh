@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Nandana
+# 👋 Hi, I'm Nandana - 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
 
 🚀 Flutter Developer | 💻 Web Developer  
-🎯 Building educational & RC toy apps  
-🇱🇰 Sri Lanka
+🎯 Building educational & RC toy apps 🇱🇰 Sri Lanka
 
 ---
 
@@ -25,6 +26,5 @@
 ## 📫 Contact
 - Email: yourmail@gmail.com
 - GitHub: https://github.com/Nandanaruh
-- ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
+
 
