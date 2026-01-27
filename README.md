@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nandana - 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact)
 
 🚀 Flutter Developer | 💻 Web Developer  
 🎯 Building educational & RC toy apps 🇱🇰 Sri Lanka
