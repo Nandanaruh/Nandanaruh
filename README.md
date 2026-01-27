@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Nandana Rathnayaka
+# Hi, I'm Nandana Rathnayaka
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Developer;Mobile+App+Builder;Always+Learning)
 
 🚀 **Flutter Developer | React & Next.js Developer**  
 🏢 Founder @ **Silicon Omega**  
@@ -9,8 +10,8 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact&theme=tokyonight)
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Developer;Mobile+App+Builder;Always+Learning)
+## ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact&theme=tokyonight)
+
 
 ---
 
