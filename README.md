@@ -3,8 +3,7 @@
 
 🚀 **Flutter Developer | React & Next.js Developer**  
 🏢 Founder @ **Silicon Omega**  
-🎯 Building educational platforms & RC toy applications  
-🇱🇰 Sri Lanka
+🎯 Building educational platforms & RC toy applications 🇱🇰 Sri Lanka
 
 ---
 
@@ -15,7 +14,7 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 - 📱 Build **high-performance Flutter apps**
 - 🌐 Develop **React & Next.js web applications**
 - 🎓 Create **educational apps** (Sinhala & English)
@@ -24,20 +23,20 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 📱 Mobile
+### Mobile
 - Flutter
 - Dart
 - Firebase
 
-### 🌐 Web
+### Web
 - React.js
 - Next.js
 - TypeScript
 - HTML, CSS, JavaScript
 
-### ⚙️ Tools
+### Tools
 - Git & GitHub
 - REST APIs
 - MongoDB
@@ -45,9 +44,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧸 RC Toys Shopping App (Flutter)
+### RC Toys Shopping App (Flutter)
 🛒 E-commerce app for RC vehicles  
 - Custom AppBar & reusable widgets  
 - Cart system with state management  
@@ -57,8 +56,8 @@
 
 ---
 
-### 🎓 Student Learning Apps
-📚 Educational apps for Sri Lankan & British syllabi  
+### Student Learning Apps
+- Educational apps for Sri Lankan & British syllabi  
 - Sinhala & English support  
 - Step-by-step lessons  
 - Interactive UI  
@@ -67,26 +66,26 @@
 
 ---
 
-### 🌐 Silicon Omega Web Projects
-💻 Company & portfolio websites  
+### Silicon Omega Web Projects
+- Company & portfolio websites  
 - SEO-friendly Next.js apps  
 - Animated UI & modern layouts  
 - API-based data handling  
 
-🔧 **Tech:** React, Next.js, TypeScript
+**Tech:** React, Next.js, TypeScript
 
 ---
 
-## 🧩 UI Components
+## UI Components
 - Reusable Flutter widgets
 - Animated page transitions
 - Custom buttons, cards & navigation
 
 ---
 
-## 📫 Contact & Links
-- 📧 Email: nandanaruh@gmail.com  
-- 🏢 Brand: **Silicon Omega**  
+## Contact & Links
+- Email: nandanaruh@gmail.com  
+- Brand: **Silicon Omega**  
 - 🐙 GitHub: https://github.com/Nandanaruh
 
 ---
