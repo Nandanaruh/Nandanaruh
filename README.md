@@ -1,13 +1,13 @@
 # Hi, I'm Nandana Rathnayaka
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Flutter+Developer;Mobile+App+Developer;React+NEXT+JS+Developer;Always+Learning)
 
-🚀 **Flutter Developer | React & Next.js Developer**  
-🏢 Founder @ **Silicon Omega**  
-🎯 Building educational platforms & RC toy applications 🇱🇰 Sri Lanka
+**Flutter Developer | React & Next.js Developer**  
+Founder @ **Silicon Omega**  
+Building educational platforms & RC toy applications 🇱🇰 Sri Lanka
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ## ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact&theme=tokyonight)
 
@@ -15,11 +15,11 @@
 ---
 
 ## What I Do
-- 📱 Build **high-performance Flutter apps**
-- 🌐 Develop **React & Next.js web applications**
-- 🎓 Create **educational apps** (Sinhala & English)
-- 🧩 Design **reusable UI components**
-- 🔗 Integrate APIs & Firebase services
+- Build **high-performance Flutter apps**
+- Develop **React & Next.js web applications**
+- Create **educational apps** (Sinhala & English)
+- Design **reusable UI components**
+- Integrate APIs & Firebase services
 
 ---
 
@@ -47,7 +47,7 @@
 ## Featured Projects
 
 ### RC Toys Shopping App (Flutter)
-🛒 E-commerce app for RC vehicles  
+- E-commerce app for RC vehicles  
 - Custom AppBar & reusable widgets  
 - Cart system with state management  
 - Clean UI for kids & parents  
