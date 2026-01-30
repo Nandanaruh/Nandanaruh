@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/npm-23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javaScript&logoColor=white" />
 </p>
 
 <!--
