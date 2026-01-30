@@ -79,11 +79,11 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalithadev&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shalithadev&theme=nord&hide_border=true" alt="Hashan's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nandanaruh&theme=nord&hide_border=true" alt="Hashan's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadev&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hashan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hashan's Top Languages" />
 </div>
 
 <br/>
@@ -91,7 +91,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shalithadev&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hashan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nandanaruh&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hashan's GitHub Trophies" />
 </p>
 
 <br/>
