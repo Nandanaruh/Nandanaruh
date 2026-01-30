@@ -20,7 +20,7 @@
 - 🎨 Frontend Software Engineer
 - 💡 Experienced in **React.js, Next.js, Tailwind CSS, and Flutter Mobile App Development**
 - 🎮 Building mobile app and web applications
-- 📚 Teaching JavaScript and React to aspiring developers
+- 📚 Teaching JavaScript, React, Flutter and Arduino to aspiring developers
 - 🎓 Graduated from **University of Ruhuna - Studied Computer Science**
 
 <br />
@@ -102,9 +102,9 @@
 ## 📫 Get in Touch
 
 <p align="center">
-  🔗 <strong>Portfolio:</strong> <a href="https://shalithadev.vercel.app">shalithadev.vercel.app</a><br>
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shalithadev">linkedin.com/in/shalithadev</a><br>
-  🐦 <strong>Twitter/X:</strong> <a href="https://twitter.com/shalithadev">@shalithadev</a>
+  🔗 <strong>E-mail:</strong> nandanaruh@gmail.com<br>
+  💼 <strong>Git Hub:</strong> <a href="https://github.com/Nandanaruh/Nandanaruh/">Git Hub</a><br>
+  🐦 <strong>Whatsapp:</strong> 071 12 76 934</a>
 </p>
 
 <p align="center">Let's build something amazing together! 🚀</p>
