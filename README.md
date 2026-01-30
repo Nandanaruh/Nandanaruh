@@ -102,8 +102,8 @@
 ## 📫 Get in Touch
 
 <p align="center">
-📧 E-mail: nandanaruh@gmail.com  
-💻 GitHub: https://github.com/YOUR_USERNAME  
+📧 E-mail: nandanaruh@gmail.com<br/> 
+💻 GitHub: https://github.com/Nandanaruh<br/>
 📱 WhatsApp: +94 71 127 6934
 </p>
 
