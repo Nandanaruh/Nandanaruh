@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />  
   <img src="https://img.shields.io/badge/Dart-100000?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javaScript&logoColor=white" />
 </p>
 
 <!--
