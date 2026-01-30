@@ -58,9 +58,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandanaruh&theme=nord&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nandanaruh&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Nandana's GitHub Trophies" />
 </p>
-
 
 <br/>
 
