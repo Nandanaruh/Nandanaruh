@@ -17,7 +17,7 @@
 ## 💫 About Me
 <img align="right" alt="Coding" width="250" src="./developer.svg"/>
 
-- 🎨 Frontend Software Engineer at **Rightmo Web Solutions**
+- 🎨 Frontend Software Engineer
 - 💡 Experienced in **React.js, Next.js, Tailwind CSS, and Flutter Mobile App Development**
 - 🎮 Building mobile app and web applications
 - 📚 Teaching JavaScript and React to aspiring developers
@@ -74,11 +74,11 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Hashan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Nandana's GitHub Stats" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nandanaruh&theme=nord&hide_border=true" alt="Hashan's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nandanaruh&theme=nord&hide_border=true" alt="Nandana's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hashan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Nandana's Top Languages" />
 </div>
 
 <br/>
@@ -86,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandanaruh&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Hashan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nandanaruh&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Nandana's GitHub Trophies" />
 </p>
 
 <br/>
@@ -114,7 +114,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalithadev&color=2975D6" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=Nandanaruh&color=2975D6" alt="watching_count" />
 </div>
 
 <div align="center">
