@@ -75,7 +75,7 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=nord&hide_border=true" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nandanaruh&theme=nord&hide_border=true" alt="Nandana's GitHub Streak" />
   <br/><br/>
