@@ -3,26 +3,25 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=41B0F1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Expert;TypeScript+Enthusiast;Open+Source+Contributor;Problem+Solver;Continuous+Learner;Indie+Game+Developer;Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=41B0F1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Expert;Continuous+Learner;Flutter+Developer;" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <!--- <p align="center">
-  🚀 <strong>Frontend Software Engineer | Indie Game Developer | Entrepreneur</strong><br>
-  🔹 Founder of <a href="https://devzer.com">Devzer Studio</a> | Creator of <a href="https://onechariot.lk">OneChariot.lk</a><br>
-  🔹 Passionate about web development, game development, and crafting digital experiences
+  🚀 <strong>Frontend Software Engineer | Flutter Developer | Entrepreneur</strong><br>
+  🔹 Creator of <a href="https://my-first-next-project-git-main-nandana-rthnayakas-projects.vercel.app">M-Flix Movie Dashboard</a><br>
+  🔹 Passionate about web development, mobile app development, and crafting digital experiences
 </p> --->
 
 ## 💫 About Me
 <img align="right" alt="Coding" width="250" src="./developer.svg"/>
 
 - 🎨 Frontend Software Engineer at **Rightmo Web Solutions**
-- 💡 Experienced in **React.js, Next.js, TypeScript, Tailwind CSS, and more**
-- 🎮 Building indie games and web applications at **Devzer Studios**
-- 🌍 Founder of **OneChariot.lk**, a classified ads platform for Sri Lanka
+- 💡 Experienced in **React.js, Next.js, Tailwind CSS, and Flutter Mobile App Development**
+- 🎮 Building mobile app and web applications
 - 📚 Teaching JavaScript and React to aspiring developers
-- 🎓 Graduated from **Coventry University (First Class Division)**
+- 🎓 Graduated from **University of Ruhuna - Studied Computer Science**
 
 <br />
 <br />
@@ -32,8 +31,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -41,10 +38,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"> -->
 </p>
 
 <!--
