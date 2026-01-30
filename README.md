@@ -77,9 +77,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Nandana's GitHub Stats" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nandanaruh&theme=nord&hide_border=true" alt="Nandana's GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Nandana's Top Languages" />
 </div>
 
 <br/>
