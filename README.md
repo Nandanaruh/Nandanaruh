@@ -68,7 +68,7 @@
 ## 📫 Get in Touch
 
 <p align="center">
-📧 <strong>Email:</strong> nandanaruh@gmail.com <br>
+📧 <strong>Email:</strong><a href="mailto:nandanaruh@gmail.com">nandanaruh@gmail.com</a><br>
 💻 <strong>GitHub:</strong> https://github.com/Nandanaruh <br>
 📱 <strong>WhatsApp:</strong> https://wa.me/94711276934
 </p>
