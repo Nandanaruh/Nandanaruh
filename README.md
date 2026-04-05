@@ -47,7 +47,7 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Nandana's GitHub Stats" />
+  <img src="https://vercel.com/nandana-rthnayakas-projects/api?username=Nandanaruh&theme=nord&hide_border=true&count_private=true" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nandanaruh&theme=nord&hide_border=true" alt="Nandana's GitHub Streak" />
   <br/><br/>
