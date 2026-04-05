@@ -57,6 +57,13 @@
 
 ---
 
+## 📜 Certifications
+
+- 🎓 **React & Next.js Master Course** — Evotec Education  
+- 🎓 **Flutter & Dart Mobile App Development** — EpicLearn Education
+
+These certifications strengthened my practical knowledge in modern web and mobile application development.
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
