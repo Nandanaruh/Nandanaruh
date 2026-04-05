@@ -39,7 +39,7 @@
 
 ---
 
-## 🔥 GitHub Stats (Working)
+## 🔥 GitHub Stats
 
 <div align="center">
 
