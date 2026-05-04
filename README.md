@@ -64,12 +64,6 @@
 
 These certifications strengthened my practical knowledge in modern web and mobile application development.
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandanaruh&theme=nord&no-frame=true&margin-w=6" />
-</p>
-
 ---
 
 ## 📫 Get in Touch
