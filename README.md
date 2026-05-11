@@ -59,7 +59,7 @@
 
 ## 📜 Certifications
 
-- 🎓 **Future Ready AI Skills Course** — Sakya Academy of Higher Education
+- 🎓 **Future Ready AI Skills Course** — Sakya Academy of Higher Education <a href="https://credsverse.com/credentials/941e10a4-69c9-4919-9f94-e90aa7f566a9">Verify</a>
 - 🎓 **Flutter & Dart Mobile App Development** — EpicLearn Education
 - 🎓 **React & Next.js Master Course** — Evotec Education  
 
