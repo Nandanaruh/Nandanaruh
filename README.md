@@ -47,7 +47,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Nandanaruh&theme=nord&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=nord&hide_border=true" />
 
 <br/><br/>
 
