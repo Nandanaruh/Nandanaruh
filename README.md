@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nandanaruh&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=nord&hide_border=true" />
 
 <br/><br/>
 
