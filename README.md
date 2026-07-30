@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nandanaruh&layout=compact&theme=nord&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nandanaruh&show_icons=true&theme=nord&hide_border=true" />
 
 </div>
 
