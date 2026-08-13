@@ -22,10 +22,10 @@
 <img align="right" alt="Coding" width="250" src="./developer.svg"/>
 
 - 🎨 Frontend Software Engineer
+- 🎓 Computer Science Graduate — University of Ruhuna
 - 💡 Skilled in **React.js, Next.js, Tailwind CSS, Flutter**
 - 🎮 Building high-performance web & mobile apps
-- 📚 Teaching JavaScript, React, Flutter and Arduino
-- 🎓 Computer Science Graduate — University of Ruhuna
+- 📚 Teaching JavaScript, React, Flutter and Arduino 
 
 <br/><br/>
 
